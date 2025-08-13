@@ -1,4 +1,4 @@
 console.log('config.js');
 console.log("version3");
 
-console.log('unique message alone');
+console.log('unique alone');
